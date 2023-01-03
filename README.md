@@ -14,7 +14,7 @@
 </div> <br>
   
 
-<div align="center" style="display: inline_block">
+<div align="center" style="display: inline_block, background: white">
   <h2>🛠 Tecnologias</h2>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
