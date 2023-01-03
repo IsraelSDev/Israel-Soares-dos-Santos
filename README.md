@@ -9,14 +9,14 @@
 
 <div align="center">
   <a href="https://github.com/IsraelSDev">
-  &nbsp; <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsraelSDev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  &nbsp; <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSDev&layout=compact&langs_count=7&theme=react"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsraelSDev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSDev&layout=compact&langs_count=7&theme=react"/>
 </div> <br>
 
 <div align="center" style="display: inline-block">
   <div><h2>🛠 Tecnologias</h2></div>
   <div styles="display: flex">
-  &nbsp; <img align="center" alt="JS" height="50" width="50" styles="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JS" height="50" width="50" styles="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     
   &nbsp; <img align="center" alt="TYPESCRIPT" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   &nbsp; <img align="center" alt="REACT" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
