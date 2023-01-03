@@ -28,17 +28,18 @@
   <img align="center" alt="FIREBASE" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="JAVA" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="JQUERY" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"> 
-    </br>
+    
   <img align="center" alt="HTML" height="50" width="50" styles="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" styles="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="SASS" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="LESS" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="BOOTSTRAP" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+    </br>
   <img align="center" alt="GIT" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="MYSQL" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="WORDPRESS" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="AZURE" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg">
-  </br>
+
   <img align="center" alt="ESLINT" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg">
   <img align="center" alt="MATERIALUI" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
   <img align="center" alt="NPM" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
