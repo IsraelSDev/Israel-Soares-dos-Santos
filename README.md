@@ -18,6 +18,7 @@
   <div><h2>🛠 Tecnologias</h2></div>
   <div styles="display: flex">
   <img align="center" alt="JS" height="50" width="50" styles="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </br>
   <img align="center" alt="TYPESCRIPT" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="REACT" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="ANGULAR" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
