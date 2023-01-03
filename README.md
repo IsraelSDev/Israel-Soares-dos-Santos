@@ -22,7 +22,7 @@
    <img align="center" alt="REACT" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
    <img align="center" alt="ANGULAR" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
    <img align="center" alt="JEST" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-   <img align="center" alt="NEXT" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
+   <i class="devicon-nextjs-plain-wordmark"></i>
    <img align="center" alt="NODEJS" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
    <img align="center" alt="FIREBASE" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
    <img align="center" alt="JAVA" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> 
