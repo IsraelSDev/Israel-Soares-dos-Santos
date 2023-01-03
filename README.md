@@ -14,8 +14,9 @@
 </div> <br>
   
 
-<div align="center" style="display: inline_block, background: white">
-  <h2>🛠 Tecnologias</h2>
+<div align="center" style="display: inline-block">
+  <div><h2>🛠 Tecnologias</h2></div>
+  <div>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
@@ -36,10 +37,11 @@
   <img align="center" alt="WORDPRESS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="AZURE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg">
   <img align="center" alt="ESLINT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg">
-   <img align="center" alt="MATERIALUI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
+  <img align="center" alt="MATERIALUI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
+  <img align="center" alt="NPM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="BITBUCKET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg">
+  </div>
   
-   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   
  
 
