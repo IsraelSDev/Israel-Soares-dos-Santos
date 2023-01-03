@@ -33,7 +33,7 @@
   &nbsp; <img align="center" alt="SASS" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   &nbsp; <img align="center" alt="LESS" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg">
   &nbsp; <img align="center" alt="BOOTSTRAP" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-    </br>
+    
   &nbsp; <img align="center" alt="GIT" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
   &nbsp; <img align="center" alt="MYSQL" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
   &nbsp; <img align="center" alt="WORDPRESS" height="50" width="50" styles="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
