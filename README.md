@@ -17,16 +17,34 @@
 <div align="center" style="display: inline_block">
   <h2>🛠 Tecnologias</h2>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="ANGULAR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="JEST" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="NEXT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="NODEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="FIREBASE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> 
+  <img align="center" alt="JQUERY" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="LESS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg">
-  <img align="center" alt="JQUERY" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"> 
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
-  <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="WORDPRESS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="AZURE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg">
+  <img align="center" alt="ESLINT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg">
+   <img align="center" alt="MATERIALUI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
+  
+   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  
+ 
+
+  
+  https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg
 </div> <br>
   
   
