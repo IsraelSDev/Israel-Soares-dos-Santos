@@ -4,7 +4,7 @@
   <h2 align="center">Sobre mim </h2>
   <p> Tenho 24 anos e sou formado em Enfermagem. Após ver que não era isso o que eu queria, resolvi me jogar no mundo da programação. Sempre gostei muito de tecnologia e está sendo muito gratificante. </p>
   <p> 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC - GO </p>
-  <p> 💻 Desenvolvedor Front-End a aproximadamente 4 anos</p>
+  <p> 💻 Desenvolvedor Front-End a aproximadamente 7 anos</p>
 </div>
 
 <div align="center">
